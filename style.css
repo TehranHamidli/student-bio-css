@@ -1,0 +1,45 @@
+body{
+    background: #ccc;
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+a{
+    color: red;
+}
+h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+ul{
+    list-style-type:disc;
+}
+span{
+    font-weight: bold;
+}
+.sol-teref{
+    width: 70%;
+    float: left;
+    padding: 30px;
+    margin: 20px 0;
+    box-sizing: border-box;
+}
+.sol-teref h2,img,p{
+    margin: 10px 0;
+}
+
+.sag-teref{
+   margin: 60px;
+   box-sizing: border-box;
+}
+.sag-teref h2{
+  margin: 20px 0;
+}
+.sag-teref ul li{
+    margin: 10px 0;
+}
